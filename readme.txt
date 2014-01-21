@@ -2,10 +2,10 @@
 Contributors: tsiger
 Tags: dates, increase
 Requires at least: 3.0
-Tested up to: 3.2.1
+Tested up to: 3.8
 Stable tag: 1.0
 
-Auto increased dates through the power of shortcores and Magic Dates plugin!
+Auto increased dates through the power of shortcodes and Magic Dates plugin!
 
 == Description ==
 
