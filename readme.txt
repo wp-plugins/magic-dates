@@ -2,7 +2,7 @@
 Contributors: tsiger
 Tags: dates, increase
 Requires at least: 3.0
-Tested up to: 3.8
+Tested up to: 4.1.1
 Stable tag: 1.0
 
 Auto increased dates through the power of shortcodes and Magic Dates plugin!
@@ -26,7 +26,7 @@ Whenever you find yourself writing content in the editor, at the moment that you
 
 If you want an ordinal number (1st, 2nd, 3rd etc) use it like this:
 
-[magicdate ordinalize='true']2008[/magicdate] => This will product 3rd 
+[magicdate ordinalize='true']2008[/magicdate] => This will produce 3rd 
 
 Easy eh?
 
@@ -39,6 +39,9 @@ To install Magic Dates:
 3. Use the shortcode [magicdate][/magicdate] in the editor
 
 == Changelog ==
+
+= 1.1 =
+Maintenance Release
 
 = 1.0 =
 Initial release
